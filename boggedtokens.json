@@ -23,6 +23,14 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
       },
       {
+        "name": "BabyToshi",
+        "symbol": "BABYTOSHI",
+        "address": "0x88a0104fa9cce686525e68a5fa5371de950dc6d6",
+        "chainId": 8453,
+        "decimals": "",
+        "logoURI": "https://www.dogepepe.cool/images/babytoshi.png"
+      },
+      {
         "name": "Bogged Finance",
         "symbol": "BOG",
         "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
